@@ -1,3 +1,5 @@
+[DASHBOARD REPORT_PAVITHRA.docx](https://github.com/user-attachments/files/25339102/DASHBOARD.REPORT_PAVITHRA.docx)
+[DASHBOARD REPORT_PAVITHRA.docx](https://github.com/user-attachments/files/25339096/DASHBOARD.REPORT_PAVITHRA.docx)
 # E-commerce Operations & Customer Insights Dashboard
 
 ## Project Overview
