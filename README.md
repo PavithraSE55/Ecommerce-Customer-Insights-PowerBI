@@ -1,6 +1,6 @@
 [DASHBOARD REPORT_PAVITHRA.docx](https://github.com/user-attachments/files/25339102/DASHBOARD.REPORT_PAVITHRA.docx)
 [DASHBOARD REPORT_PAVITHRA.docx](https://github.com/user-attachments/files/25339096/DASHBOARD.REPORT_PAVITHRA.docx)
-# E-commerce Operations & Customer Insights Dashboard
+# Power BI E-commerce Operations & Customer Insights Dashboard
 
 ## Project Overview
 This project focuses on logistics optimization and sales performance for "Nexus Goods." I analyzed a large-scale dataset to identify where the business was losing money on shipping and which products were the most successful.
